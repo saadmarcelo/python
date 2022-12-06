@@ -1,0 +1,10 @@
+1 retirar o macaco
+2 afrouxar os pneus
+3 iça o carro com o macaco
+4 tirar o pneu furado
+5 colocar pneu novo
+6 parafusar os pneu
+7 retirar o macaco
+8 apertar os parafusos
+9 guardar macaco
+10 guardar pneu velho

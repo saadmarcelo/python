@@ -6,7 +6,7 @@ i = 0
 j = 0
 
 while i < len(lista_a):
-    x.append(l[i])
+    x.append(lista_a[i])
     i = i + 1
 
 while j < len(lista_b):
